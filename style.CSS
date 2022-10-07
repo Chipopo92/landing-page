@@ -13,14 +13,14 @@ h2 {
     font-family: 'Roboto Condensed', sans-serif;
 }
 .art-1 {
-    width: 25%;
-}
-.art-2 {
-    width: 25%;
+    text-align: center;
+    width: 50%;
+    margin: 0px 0px;
+    padding: 0px 0px;
 }
 .art-3 {
-    text-align: right;
-    width: 25%;
+    text-align: center;
+    width: 50%;
     color: blueviolet;
 }
 .div-2 p {
